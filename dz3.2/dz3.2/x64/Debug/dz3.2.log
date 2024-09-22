@@ -1,0 +1,5 @@
+﻿  lab3.2.c
+C:\Users\Машинка\source\repos\dz3.2\lab3.2.c(13,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Машинка\source\repos\dz3.2\lab3.2.c(15,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Машинка\source\repos\dz3.2\lab3.2.c(17,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  dz3.2.vcxproj -> C:\Users\Машинка\source\repos\dz3.2\x64\Debug\dz3.2.exe
