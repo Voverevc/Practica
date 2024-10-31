@@ -1,0 +1,3 @@
+﻿  zad7.c
+zad7.obj : error LNK2005: main уже определен в lab7.obj
+C:\Users\ПК\source\repos\Lab7\x64\Debug\Lab7.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
